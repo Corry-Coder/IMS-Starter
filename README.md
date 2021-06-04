@@ -1,16 +1,19 @@
 Coverage: 34%
-# Project Title
+# IMS Proect
 
-One Paragraph of project description goes here
+The purpose of this project was to use Git/source control, Java, SQL and SDET to create a fully functional database management system that has CRUD functions for customers, items and orders. I used Java as the programming language, Git and Jira boards as my source controls, Java as the programming language, SQL to create and manage the database, and SDET to test the code and methods. 
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+There are two ways to get my project on your local machine. The first way is to cloe my repo. You can do this by copying my repo link. After that, create a GitHub folder on your desktop. Inside that folder open Git Bash and enter git clone followed by my repo link. The second way to get my project up and running on your machine is to import the project onto your IDE directly from GitHub. Firstly, you should copy my repo link. Then, inside your eclipse IDE, go to file>import>Git>Projects from Git smart import. Then click on Clone URI. My details should atuomatically fill due to the copied repo link. Fill in your credentials and hit finish..
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
+Git Bash
+Jira
+MySQL Workbench
+Maven
+Eclipse IDE
 ```
 Give examples
 ```
@@ -84,6 +87,4 @@ This project is licensed under the MIT license - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* I would like to thank Harry for allowing me to use his starter template. It was a big help and a great jumping off point for the project. I couldn't imagine starting this project off from scratch. The readme teamplate layout is also awesome. It's been awhile since I've done basic formatting and syntax witing for GitHub and was an excellent refresher.
