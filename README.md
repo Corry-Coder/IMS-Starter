@@ -14,9 +14,6 @@ There are two ways to get my project on your local machine. The first way is to 
 - MySQL Workbench
 - Maven
 - Eclipse IDE
-```
-Give examples
-```
 
 ### Installing
 
