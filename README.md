@@ -9,11 +9,11 @@ There are two ways to get my project on your local machine. The first way is to 
 
 ### Prerequisites
 
-Git Bash
-Jira
-MySQL Workbench
-Maven
-Eclipse IDE
+- Git Bash
+- Jira
+- MySQL Workbench
+- Maven
+- Eclipse IDE
 ```
 Give examples
 ```
