@@ -1,7 +1,7 @@
 Coverage: 34%
 # IMS Proect
 
-The purpose of this project was to use Git/source control, Java, SQL and SDET to create a fully functional database management system that has CRUD functions for customers, items and orders. I used Java as the programming language, Git and Jira boards as my source controls, Java as the programming language, SQL to create and manage the database, and SDET to test the code and methods. 
+The purpose of this project was to use Git/source control, Java, SQL and SDET to create a fully functional database management system that has CRUD functions for customers, items and orders. I used Java as the programming language, Git and Jira boards as my source controls, Java as the programming language, SQL to create and manage the database, and SDET to test the code and methods. [If interested, here is a link to my JIRA board] https://corry-coder.atlassian.net/jira/software/projects/IMS/boards/1
 
 ## Getting Started
 
